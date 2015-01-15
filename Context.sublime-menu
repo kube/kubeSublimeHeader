@@ -1,0 +1,7 @@
+[
+  {
+    "id" : "kubeHeader",
+    "caption": "Add kube",
+    "command" : "kube_header"
+  }
+]
