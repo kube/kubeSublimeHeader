@@ -1,6 +1,6 @@
 [
   { 
-    "keys": ["super+alt+k"],
-    "command": "kube_header"
+    "keys": ["super+alt+shift+a"],
+    "command": "ak_header"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
-    "id" : "kubeHeader",
-    "caption": "Add kube",
-    "command" : "kube_header"
+    "id" : "akHeader",
+    "caption": "Add ak header",
+    "command" : "ak_header"
   }
 ]
